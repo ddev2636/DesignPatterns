@@ -36,8 +36,7 @@ The flowchart below illustrates the interaction and flow between the components 
 
 ## Image
 
-![Working]
-(builder-Design-pattern.webp)
+![Working](builder-Design-pattern.webp)
 
 ## Usage
 
