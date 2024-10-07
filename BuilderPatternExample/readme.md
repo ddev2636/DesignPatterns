@@ -31,12 +31,12 @@ The following components are involved in this implementation of the Builder Desi
 
 The flowchart below illustrates the interaction and flow between the components of the Builder Design Pattern:
 
-![Builder Design Pattern Flowchart](BuilderPatternExample\UML-Class-Diagram-for-Builder-Design-Pattern.webp)
+![Builder Design Pattern Flowchart](UML-Class-Diagram-for-Builder-Design-Pattern.webp)
 
 
 ##Image
 ![Working]
-(BuilderPatternExample\builder-Design-pattern.webp)
+(builder-Design-pattern.webp)
 
 ## Usage
 
